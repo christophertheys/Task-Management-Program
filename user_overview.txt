@@ -1,0 +1,5 @@
+Total number of tasks assigned to user - 
+Percentage of total tasks assigned to user - 
+Percentage of tasks assigned to user that have been completed - %
+Percentage of tasks assigned to user to still be completed - %
+Percentage of tasks assigned to user that are not completed and overdue - %

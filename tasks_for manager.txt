@@ -1,0 +1,11 @@
+Garden Task, 1, Cut the front lawn to the desired length for lacrosse training , 15 August 2022, 21 August 2022, No (Task not yet complete) 
+ 
+lemotheys, 2, Clean Tv Room, Make sure to dust the areas of the plasma table, 1 September 2022, 30 September 2022, No (Task not yet complete) 
+ 
+Chels, 3, CodingTask, Make sure to debug the code given, 1 September 2022, 30 September 2022, No (Task not yet complete) 
+ 
+infinity,  4, Netflix, Watch the new documentary, 1 September 2022, 30 September 2022, No (Task not yet complete) 
+
+lemotheys,  2, Clean Tv Room, Make sure to dust the areas of the plasma table, 30 September 2022, 30 September 2022, Yes (Task is complete)
+ 
+infinity,  4, Netflix, Watch the new documentary, 21 September 2022, 30 September 2022, Yes (Task is complete)
